@@ -1,0 +1,11 @@
+{
+  "name": "codeclasssite",
+  "version": "1.0.0",
+  "description": "Web site for code class summer 2015.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lloyd Cundiff",
+  "license": "Creative Commons"
+}
